@@ -1,0 +1,10 @@
+[default]
+user=KAS USER
+pass=SHA-PASS
+path=/etc/letsencrypt/live/%domain%/
+
+[domain1.example]
+user=other user
+pass=other pass
+
+[domain2.example]
